@@ -1,0 +1,5 @@
+![Movie List](assets/list.png)
+![Add Movie](assets/add.png)
+![Edit Movie](assets/edit.png)
+![View Details Movie](assets/view.png)
+![Delete Movie](assets/delete.png)
